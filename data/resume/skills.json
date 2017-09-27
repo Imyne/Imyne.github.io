@@ -177,7 +177,7 @@
             "id": "interested",
             "title": {
               "fr": "Intérêt",
-              "en": "Interes"
+              "en": "Interest"
             },
             "relatedSkills": [
               "elixir", "scala"
