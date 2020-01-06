@@ -7,17 +7,17 @@
     "list": [
       {
         "name": {
-          "fr": "Ingénieur DevOps Cybersécurité",
-          "en": "Cybersecurity DevOps Engineer "
+          "fr": "Doctorat en supervision de QoS dans les réseaux cellulaires",
+          "en": "phd student in QoS monitoring for cellular networks"
         },
         "dates": {
-          "start": "2016-08-01"
+          "start": "2017-04-01"
         },
         "location": {
-          "name": "ITrust",
-          "address": "55 L'Occitane",
-          "zip": "31670",
-          "city": "Labège",
+          "name": "LAAS-CNRS",
+          "address": "07 Avenue Colonel Roche",
+          "zip": "31400",
+          "city": "Toulouse",
           "area": {
             "fr": "31",
             "en": "France"
@@ -26,24 +26,24 @@
         "missions": [
           {
             "brief": {
-              "fr": "Conception SIEM et SOC basée sur l'intégration de composants Open-Source.",
-              "en": "SIEM and SOC design based on Open-Source component integration."
+              "fr": "Déploiement d'un testbed pour les communications 4G en temps réel.",
+              "en": "Real time 4G testbed deployement."
             },
-            "relatedSkills": ["graylog", "elasticsearch", "logstash", "rsyslog", "thehive"]
+            "relatedSkills": ["OpenairInterface", "LabView", "C/C++", "bash", "wireshark","SDR"]
           },
           {
             "brief": {
-              "fr": "Création d'une architecture de traitement de logs par micro-services via Docker.",
-              "en": "Micro-services log processing architecture via Docker."
+              "fr": "Estimation/prédiction du débit uplink pour des petites granularités temporelles avec les techniques d'apprentissage automatique.",
+              "en": "4G uplink throughput estimation/preduction at small time granularities using Machine Learning techniques."
             },
-            "relatedSkills": ["docker", "docker-swarm", "microservices", "bash"]
+            "relatedSkills": ["sklearn", "python", "telnet"]
           },
           {
             "brief": {
-              "fr": "Développement de modules d'alertes de sécurité en Python basés sur des requètes Elasticsearch.",
-              "en": "Alerting module development in Python based on Elasticsearch queries."
+              "fr": ".",
+              "en": "5G radio access network slicing renforncement."
             },
-            "relatedSkills": ["rest", "python", "elasticsearch"]
+            "relatedSkills": ["cplex", "optimization par contraintes","optimization multi-objectives"]
           },
           {
             "brief": {
@@ -54,8 +54,8 @@
           },
           {
             "brief": {
-              "fr": "Rédaction de rapports d'analyse.",
-              "en": "Analysis report writing."
+              "fr": "Rédaction de rapports et d'articles scientifique.",
+              "en": "Scientific articles and  report writing."
             },
             "relatedSkills": []
           }
@@ -63,43 +63,71 @@
       },
       {
         "name": {
-          "fr": "Analyste SOC de Niveau 2 - Investigations de cybersécurité pour le compte d'Airbus",
-          "en": "Level 2 SOC Analyst - Cybersecurity investigation on behalf of Airbus"
+          "fr": "Optimisation et déploiement radio de l'UMTS900 pour Maroc Telecom avec respect de QoS.",
+          "en": "Radio optimization and deployment of UMTS900 for Maroc Telecom operator"
         },
         "dates": {
-          "start": "2016-03-07",
-          "end": "2016-07-07"
+          "start": "2016-02-01",
+          "end": "2016-06-02"
         },
         "location": {
-          "name": "Sopra Steria",
-          "address": "8 avenue Yves Brunaud",
+          "name": "Nokia",
+          "address": "Rabat",
           "zip": "31770",
-          "city": "Colomiers",
+          "city": "Rabat",
           "logoUrl": "//www.prestationintellectuelle.com/wp-content/uploads/2015/04/logo-sopra-steria-groupe.jpg",
           "area": {
-            "fr": "31",
-            "en": "France"
+            "fr": "Maroc",
+            "en": "Maroc"
           }
         },
         "missions": [
           {
             "brief": {
-              "fr": "Gestion et reporting d'incidents de sécurité.",
-              "en": "Security incident reporting."
+              "fr": "Etude de l'impact du déploiement de l'UMTS900 et proposition des zones pour ce déploiement.",
+              "en": "Investigation of UMTS900 deployement impact on QoS and areas proposition."
             },
-            "relatedSkills": ["rsa-archer"]
+            "relatedSkills": [""]
           },
           {
             "brief": {
-              "fr": "Investigation et analyse de logs sur SIEM.",
-              "en": "SIEM log analysis and investigation."
+              "fr": ".",
+              "en": "Refarming 2G (900)."
             },
-            "relatedSkills": ["rsa-security-analitics"]
+            "relatedSkills": ["2G"]
           },
           {
             "brief": {
-              "fr": "Qualification d'évènements de sécurité sur IDS-IPS.",
-              "en": "IDS-IPS qualification of security events."
+              "fr": "Définition de la strategie de mobilité entre les couches 2G(900/1800), 3G(900/2100) et 4G(1800/2600).",
+              "en": "Mobility srategy definition between 2G(900/1800), 3G(900/2100) and 4G(1800/2600)."
+            },
+            "relatedSkills": []
+          },
+	  {
+            "brief": {
+              "fr": "Définition des parameters radio pour les nouveux sites UMTS (900).",
+              "en": "."
+            },
+            "relatedSkills": []
+          },
+	  {
+            "brief": {
+              "fr": "La mise en oeuvre de nouvelles fonctionnlités et parametres pour le réglage du réseau radio 2G/3G/4G.",
+              "en": "."
+            },
+            "relatedSkills": []
+          },
+	  {
+            "brief": {
+              "fr": "Analyse KPI drive test 2G/3G/4G.",
+              "en": "."
+            },
+            "relatedSkills": []
+          },
+	  {
+            "brief": {
+              "fr": "Optimization des parcours 2G/3G.",
+              "en": "."
             },
             "relatedSkills": []
           }
@@ -107,18 +135,18 @@
       },
       {
         "name": {
-          "fr": "Apprenti Ingénieur validation systèmes avioniques",
+          "fr": "Etude du déploiement de la 4G pour l'opérateur MAroc Telecom (solution single RAN)",
           "en": "Apprentice Engineer on V&V for avionic software"
         },
         "dates": {
-          "start": "2012-09-01",
-          "end": "2015-08-31"
+          "start": "2015-06-29",
+          "end": "2015-08-29"
         },
         "location": {
-          "name": "Airbus Group",
-          "address": "316 Route de Bayonne",
-          "zip": "31000",
-          "city": "Toulouse",
+          "name": "Huawei technologies",
+          "address": "Rabat",
+          "zip": "31",
+          "city": "Rabat",
           "logoUrl": "//seeklogo.com/images/A/airbus-logo-327DC4730C-seeklogo.com.png",
           "area": {
             "fr": "31",
