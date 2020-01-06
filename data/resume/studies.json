@@ -1,235 +1,97 @@
 {
-  "workexp": {
+  "studies": {
     "sectionTitle": {
-      "fr": "Expériences Professionnelles",
-      "en": "Work Experience"
+      "fr":	"Formations",
+      "en":	"Education & Training"
     },
     "list": [
       {
         "name": {
-          "fr": "Doctorat en supervision de QoS dans les réseaux cellulaires",
-          "en": "phd student in QoS monitoring for cellular networks"
+          "fr":	"Diplôme d'Ingénieur Télécommunications et Technologies de l'information",
+          "en":	"Engineer degree in Telecommunications and information technologie"
         },
         "dates": {
-          "start": "2017-04-01"
+          "start":	"2013-09-01",
+          "end":	"2016-07-04"
         },
         "location": {
-          "name": "LAAS-CNRS",
-          "address": "07 Avenue Colonel Roche",
-          "zip": "31400",
-          "city": "Toulouse",
-          "area": {
-            "fr": "31",
-            "en": "France"
-          }
-        },
-        "missions": [
-          {
-            "brief": {
-              "fr": "Déploiement d'un testbed pour les communications 4G en temps réel.",
-              "en": "Real time 4G testbed deployement."
-            },
-            "relatedSkills": ["OpenairInterface", "LabView", "C/C++", "bash", "wireshark","SDR"]
-          },
-          {
-            "brief": {
-              "fr": "Estimation/prédiction du débit uplink pour des petites granularités temporelles avec les techniques d'apprentissage automatique.",
-              "en": "4G uplink throughput estimation/preduction at small time granularities using Machine Learning techniques."
-            },
-            "relatedSkills": ["sklearn", "python", "telnet"]
-          },
-          {
-            "brief": {
-              "fr": ".",
-              "en": "5G radio access network slicing renforncement."
-            },
-            "relatedSkills": ["cplex", "optimization par contraintes","optimization multi-objectives"]
-          },
-          {
-            "brief": {
-              "fr": "Développement de modules de collecte de donnée de Threat Intelligence en Go.",
-              "en": "Threat intelligence database collection module development in Go."
-            },
-            "relatedSkills": ["rest", "goland"]
-          },
-          {
-            "brief": {
-              "fr": "Rédaction de rapports et d'articles scientifique.",
-              "en": "Scientific articles and  report writing."
-            },
-            "relatedSkills": []
-          }
-        ]
-      },
-      {
-        "name": {
-          "fr": "Optimisation et déploiement radio de l'UMTS900 pour Maroc Telecom avec respect de QoS.",
-          "en": "Radio optimization and deployment of UMTS900 for Maroc Telecom operator"
-        },
-        "dates": {
-          "start": "2016-02-01",
-          "end": "2016-06-02"
-        },
-        "location": {
-          "name": "Nokia",
-          "address": "Rabat",
-          "zip": "31770",
-          "city": "Rabat",
-          "logoUrl": "//www.prestationintellectuelle.com/wp-content/uploads/2015/04/logo-sopra-steria-groupe.jpg",
+          "name":	"INPT-Institut National des Postes et Télécommunications",
+          "city":	"Rabat",
           "area": {
             "fr": "Maroc",
-            "en": "Maroc"
+            "en": "Morocco"
           }
         },
-        "missions": [
+        "topics": [
           {
-            "brief": {
-              "fr": "Etude de l'impact du déploiement de l'UMTS900 et proposition des zones pour ce déploiement.",
-              "en": "Investigation of UMTS900 deployement impact on QoS and areas proposition."
-            },
-            "relatedSkills": [""]
+            "fr": "Ingénierie des réseaux mobiles",
+            "en": "Mobile Networks Engineering"
           },
           {
-            "brief": {
-              "fr": ".",
-              "en": "Refarming 2G (900)."
-            },
-            "relatedSkills": ["2G"]
+            "fr": "",
+            "en": ""
           },
           {
-            "brief": {
-              "fr": "Définition de la strategie de mobilité entre les couches 2G(900/1800), 3G(900/2100) et 4G(1800/2600).",
-              "en": "Mobility srategy definition between 2G(900/1800), 3G(900/2100) and 4G(1800/2600)."
-            },
-            "relatedSkills": []
+            "fr": "Electronique des télécommunications",
+            "en": "Electronics for telecommunications"
+          }
+        ],
+        "notes": [
+          {
+            "fr": "15 jours de Formation à Huawei en Chine (programme seeds for the future)",
+            "en": "15 days Training in Huawei in China (seeds for the future program)"
           },
-	  {
-            "brief": {
-              "fr": "Définition des parameters radio pour les nouveux sites UMTS (900).",
-              "en": "."
-            },
-            "relatedSkills": []
-          },
-	  {
-            "brief": {
-              "fr": "La mise en oeuvre de nouvelles fonctionnlités et parametres pour le réglage du réseau radio 2G/3G/4G.",
-              "en": "."
-            },
-            "relatedSkills": []
-          },
-	  {
-            "brief": {
-              "fr": "Analyse KPI drive test 2G/3G/4G.",
-              "en": "."
-            },
-            "relatedSkills": []
-          },
-	  {
-            "brief": {
-              "fr": "Optimization des parcours 2G/3G.",
-              "en": "."
-            },
-            "relatedSkills": []
+          {
+            "fr": "Majorante",
+            "en": "Ranked First"
           }
         ]
       },
+      
       {
         "name": {
-          "fr": "Etude du déploiement de la 4G pour l'opérateur MAroc Telecom (solution single RAN)",
-          "en": "Apprentice Engineer on V&V for avionic software"
+          "fr":	"Classe Préparatoires aux Grandes écoles d'Ingénieurs",
+          "en":	"DUT R&T: ~ Two-year degree in IT"
         },
         "dates": {
-          "start": "2015-06-29",
-          "end": "2015-08-29"
+          "start":	"2011-09-01",
+          "end":	"2013-06-31"
         },
         "location": {
-          "name": "Huawei technologies",
-          "address": "Rabat",
-          "zip": "31",
-          "city": "Rabat",
-          "logoUrl": "//seeklogo.com/images/A/airbus-logo-327DC4730C-seeklogo.com.png",
+          "name":	"AbdelMalek Saadi",
+          "city":	"Kenitra",
           "area": {
-            "fr": "31",
-            "en": "France"
+            "fr": "Maroc",
+            "en": "Morocco"
           }
         },
-        "missions": [
+        "topics": [
           {
-            "brief":{
-              "fr": "Rationalisation d'un parc de moyens de V&V logiciel avionique DO178B DAL A, B, C, E.",
-              "en": "Park of means rationalization for the V&V of avionic software DO178B DAL A, B, C, E."
-            },
-            "relatedSkills": []
+            "fr": "Etudes d'ingénieur généraliste, en mathématiques, physique et chimie.",
+            "en": "Engineering Studies in maths, chemistry and physical science."
           },
           {
-            "brief": {
-              "fr": "Etude de mise en place d'Intégration Continue dans les cycles de développement de logiciel avionique.",
-              "en": "Continuous Integration in avionic software development lifecycle set-up study."
-            },
-            "relatedSkills": []
+            "fr": "Routage IP",
+            "en": "IP routing"
           },
+
+        ],
+        "notes": [
           {
-            "brief":{
-              "fr": "Suivi de prestations de sous-traitance, contribution au pilotage technique des activités sous-traitées.",
-              "en": "Subcontractor follow-up, and contribution to the technical management of the outsourced activity."
-            },
-            "display": "hidden",
-            "relatedSkills": []
-          },
-          {
-            "brief": {
-              "fr": "Creation d'un sous-réseau sécurisé lié à l'exploitation de moyens obsolètes.",
-              "en": "Sub-network creation to keep using obsolete means."
-            },
-            "display": "hidden",
-            "relatedSkills": []
-          },
-          {
-            "brief": {
-              "fr": "Analyse de risques industriels, traitement des obsolesences des outils de  V&V.",
-              "en": "Industrial Risks Analysis, obsolescence management of V&V tools."
-            },
-            "relatedSkills":[]
+            "fr": "Classement 416 parmis 5500",
+            "en": "Rank: 416 from 5500 participants"
           }
         ]
       },
+ 
       {
         "name": {
-          "fr": "Stagiaire administrateur réseaux",
-          "en": "Trainee Network Administrator"
+          "fr":	"Baccalauréat SM-Sciences Mathématique",
+          "en":	"Baccalauréat SM: ~ High School diploma in Mathematical Sciences"
         },
-        "display": "hidden",
         "dates": {
-          "start": "2012-04-09",
-          "end": "2012-06-15"
-        },
-        "location": {
-          "name": "MediaMeeting",
-          "address": "99 Route d'Espagne",
-          "zip": "31100",
-          "city": "Toulouse",
-          "logoUrl": "//www.a2prl.fr/wp-content/uploads/2015/01/logo-mediameeting.png",
-          "area": {
-            "fr": "31",
-            "en": "France"
-          }
-        },
-        "missions": [
-          {
-            "brief": {
-              "fr": "Etude et déploiement de VPN SSL et d'un système FailOver sur Cisco ASA",
-              "en": "VPN SSL and FailOver study and setup on Cisco ASA"
-            },
-            "relatedSkills": []
-          },
-          {
-            "brief": {
-              "fr": "Optimisation des règles firewall sur Cisco ASA",
-              "en": "Update and simplification of Cisco ASA Firewall Rules"
-            },
-            "relatedSkills": []
-          }
-        ]
+          "end":	"2011-07-30"
+        }
       }
     ]
   }
