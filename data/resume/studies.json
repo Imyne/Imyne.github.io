@@ -46,54 +46,9 @@
             "en": "Ranked First"
           }
         ]
-      },
-      
-      {
-        "name": {
-          "fr":	"Classe Préparatoires aux Grandes écoles d'Ingénieurs",
-          "en":	"DUT R&T: ~ Two-year degree in IT"
-        },
-        "dates": {
-          "start":	"2011-09-01",
-          "end":	"2013-06-31"
-        },
-        "location": {
-          "name":	"AbdelMalek Saadi",
-          "city":	"Kenitra",
-          "area": {
-            "fr": "Maroc",
-            "en": "Morocco"
-          }
-        },
-        "topics": [
-          {
-            "fr": "Etudes d'ingénieur généraliste, en mathématiques, physique et chimie.",
-            "en": "Engineering Studies in maths, chemistry and physical science."
-            "display": "hidden"
-          },
-          {
-            "fr": "Routage IP",
-            "en": "IP routing"
-          },
-
-        ],
-        "notes": [
-          {
-            "fr": "Classement 416 parmis 5500",
-            "en": "Rank: 416 from 5500 participants"
-          }
-        ]
-      },
- 
-      {
-        "name": {
-          "fr":	"Baccalauréat SM-Sciences Mathématique",
-          "en":	"Baccalauréat SM: ~ High School diploma in Mathematical Sciences"
-        },
-        "dates": {
-          "end":	"2011-07-30"
-        }
       }
+ 
+      
     ]
   }
 }
