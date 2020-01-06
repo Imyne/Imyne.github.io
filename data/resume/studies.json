@@ -69,6 +69,7 @@
           {
             "fr": "Etudes d'ingénieur généraliste, en mathématiques, physique et chimie.",
             "en": "Engineering Studies in maths, chemistry and physical science."
+            "display": "hidden"
           },
           {
             "fr": "Routage IP",
