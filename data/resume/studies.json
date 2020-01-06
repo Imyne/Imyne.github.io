@@ -7,29 +7,29 @@
     "list": [
       {
         "name": {
-          "fr":	"Diplôme d'Ingénieur Réseaux - Télécommunications",
-          "en":	"Engineer degree in Network - Telecommunications"
+          "fr":	"Diplôme d'Ingénieur Télécommunications et Technologies de l'information",
+          "en":	"Engineer degree in Telecommunications and information technologie"
         },
         "dates": {
-          "start":	"2012-09-01",
-          "end":	"2015-08-31"
+          "start":	"2013-09-01",
+          "end":	"2016-07-04"
         },
         "location": {
-          "name":	"Télécom-Bretagne",
-          "city":	"Brest",
+          "name":	"INPT-Institut National des Postes et Télécommunications",
+          "city":	"Rabat",
           "area": {
-            "fr": "02",
-            "en": "France"
+            "fr": "Maroc",
+            "en": "Morocco"
           }
         },
         "topics": [
           {
-            "fr": "Ingénierie Logicielle",
-            "en": "Software Engineering"
+            "fr": "Ingénierie des réseaux mobiles",
+            "en": "Mobile Networks Engineering"
           },
           {
-            "fr": "Architecture des Systèmes d'Information",
-            "en": "Architecture of Information Systems"
+            "fr": "",
+            "en": ""
           },
           {
             "fr": "Electronique des télécommunications",
@@ -38,140 +38,59 @@
         ],
         "notes": [
           {
-            "fr": "Formation en apprentissage avec Airbus",
-            "en": "Apprenticeship with Airbus"
+            "fr": "15 jours de Formation à Huawei en Chine (programme seeds for the future)",
+            "en": "15 days Training in Huawei in China (seeds for the future program)"
           },
           {
-            "fr": "Semestre ERASMUS à NTNU Trondheim, Norvège. Spécialisation sécurité informatique ",
-            "en": "ERASMUS Semester at NTNU Throndheim, Norway. Courses focused on information security"
+            "fr": "Majorante",
+            "en": "Ranked First"
           }
         ]
       },
+      
       {
         "name": {
-          "fr":	"Semestre ERASMUS spé. Informatique et Sécurité",
-          "en":	"ERASMUS Semester: spec. in Information Security "
-        },
-        "display": "hidden",
-        "dates": {
-          "start":	"2014-08-09",
-          "end":	"2014-12-22"
-        },
-        "location": {
-          "name":	"NTNU",
-          "city":	"Trondheim",
-          "area": {
-            "fr":   "Norvège",
-            "en":   "Norway"
-          }
-        },
-        "topics": [
-          {
-            "fr": "Analyse de vulnérabilités",
-            "en": "Vulnerability assessment"
-          },
-          {
-            "fr": "Modélisation de menaces",
-            "en": "Threat Modeling",
-            "display": "hidden"
-          },
-          {
-            "fr": "Analyse de risques",
-            "en": "Risk Analysis",
-            "display": "hidden"
-          },
-          {
-            "fr": "Modélisation UML",
-            "en": "UML Modeling"
-          },
-          {
-            "fr": "Sécurité des applications Web",
-            "en": "Web App Security",
-            "display": "hidden"
-          }
-        ],
-        "notes": [
-          {
-            "fr": "Sujets choisis : Sécurité Logicielle, Sécurité des réseaux sans-fils, Développement basé modèles.",
-            "en": "Topics elected: Software security, Wireless Security, Model Based Development of Information Systems."
-          }
-        ]
-      },
-      {
-        "name": {
-          "fr":	"DUT Réseaux et Télécommunications",
+          "fr":	"Classe Préparatoires aux Grandes écoles d'Ingénieurs",
           "en":	"DUT R&T: ~ Two-year degree in IT"
         },
         "dates": {
-          "start":	"2010-09-01",
-          "end":	"2012-08-31"
+          "start":	"2011-09-01",
+          "end":	"2013-06-31"
         },
         "location": {
-          "name":	"IUT de Toulouse",
-          "city":	"Blagnac",
+          "name":	"AbdelMalek Saadi",
+          "city":	"Kenitra",
           "area": {
-            "fr": "31",
-            "en": "France"
-          }
-        },
-        "topics": [
-          {
-            "fr": "Architecture des réseaux IP",
-            "en": "IP Network architecture",
-            "display": "hidden"
-          },
-          {
-            "fr": "Administration Windows et Linux",
-            "en": "Windows and Linux Administration"
-          },
-          {
-            "fr": "Routage IP",
-            "en": "IP routing"
-          },
-          {
-            "fr": "Réseaux d'opérateurs",
-            "en": "operator networks"
-          }
-        ],
-        "notes": [
-          {
-            "fr": "Juillet 2011 : CCNA 1 et 2",
-            "en": "July 2011: CCNA 1 and 2"
-          }
-        ]
-      },
-      {
-        "name": {
-          "fr":	"Première année classe préparatoire intégrée INSA",
-          "en":	"First Year in a national Engineering School"
-        },
-        "display": "hidden",
-        "dates": {
-          "start":	"2009-09-01",
-          "end":	"2010-06-30"
-        },
-        "location": {
-          "name":	"INSA",
-          "city":	"Toulouse",
-          "area": {
-            "fr": "31",
-            "en": "France"
+            "fr": "Maroc",
+            "en": "Morocco"
           }
         },
         "topics": [
           {
             "fr": "Etudes d'ingénieur généraliste, en mathématiques, physique et chimie.",
             "en": "Engineering Studies in maths, chemistry and physical science."
+          },
+          {
+            "fr": "Routage IP",
+            "en": "IP routing"
+          },
+
+        ],
+        "notes": [
+          {
+            "fr": "Classement 416 parmis 5500",
+            "en": "Rank: 416 from 5500 participants"
           }
         ]
       },
+ 
       {
         "name": {
-          "fr":	"Baccalauréat S-Sciences de l’Ingénieur",
-          "en":	"Baccalauréat SSI: ~ High School diploma in Sciences"
+          "fr":	"Baccalauréat SM-Sciences Mathématique",
+          "en":	"Baccalauréat SM: ~ High School diploma in Mathematical Sciences"
         },
         "dates": {
-          "end":	"2009-06-30"
+          "end":	"2011-07-30"
         }
       }
     ]
