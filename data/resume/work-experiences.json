@@ -102,6 +102,7 @@
               "fr": "Qualification d'évènements de sécurité sur IDS-IPS.",
               "en": "IDS-IPS qualification of security events."
             },
+            "display": "hidden",
             "relatedSkills": []
           }
         ]
@@ -132,6 +133,7 @@
               "fr": "Rationalisation d'un parc de moyens de V&V logiciel avionique DO178B DAL A, B, C, E.",
               "en": "Park of means rationalization for the V&V of avionic software DO178B DAL A, B, C, E."
             },
+            "display": "hidden",
             "relatedSkills": []
           },
           {
@@ -139,6 +141,7 @@
               "fr": "Etude de mise en place d'Intégration Continue dans les cycles de développement de logiciel avionique.",
               "en": "Continuous Integration in avionic software development lifecycle set-up study."
             },
+            "display": "hidden",
             "relatedSkills": []
           },
           {
