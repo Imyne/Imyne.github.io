@@ -77,21 +77,21 @@
           {
             "brief": {
               "fr": "Etude de l'impact du déploiement de l'UMTS900 et proposition des zones pour ce déploiement.",
-              "en": "Investigation of UMTS900 deployement impact on QoS and areas proposition."
+              "en": "Investigation of UMTS900 deployement impact on QoS, areas proposition and 2G (900) refarming."
             },
-            "relatedSkills": ["rsa-archer"]
-          },
-          {
-            "brief": {
-              "fr": ".",
-              "en": "Refarming 2G (900)."
-            },
-            "relatedSkills": ["rsa-security-analitics"]
+            "relatedSkills": ["UMTS","3G","2G"]
           },
           {
             "brief": {
               "fr": "Définition de la strategie de mobilité entre les couches 2G(900/1800), 3G(900/2100) et 4G(1800/2600).",
               "en": "Mobility srategy definition between 2G(900/1800), 3G(900/2100) and 4G(1800/2600)."
+            },
+            "relatedSkills": []
+          },
+         {
+            "brief": {
+              "fr": "Paramétrage radio et analyse de KPI drive test pour les nouveux sites UMTS (900) et 2G/3G/4G.",
+              "en": "2G/3G/4G radio parameters setting and drive test KPI analysis."
             },
             "relatedSkills": []
           }
