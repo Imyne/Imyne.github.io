@@ -99,99 +99,63 @@
       },
       {
         "name": {
-          "fr": "Apprenti Ingénieur validation systèmes avioniques",
-          "en": "Apprentice Engineer on V&V for avionic software"
+          "fr": "Stagiaire pour déploiement de la solution single RAN avec la 4G pour Maroc Telecom",
+          "en": "Intern for the single RAN deployement with 4G"
         },
         "dates": {
-          "start": "2012-09-01",
-          "end": "2015-08-31"
+          "start": "2015-06-29",
+          "end": "2015-08-29"
         },
         "location": {
-          "name": "Airbus Group",
-          "address": "316 Route de Bayonne",
-          "zip": "31000",
-          "city": "Toulouse",
-          "logoUrl": "//seeklogo.com/images/A/airbus-logo-327DC4730C-seeklogo.com.png",
+          "name": "Huawei technologies",
+          "address": "Rabat",
+          "city": "Rabat",
           "area": {
-            "fr": "31",
-            "en": "France"
+            "fr": "Maroc",
+            "en": "Morocco"
           }
         },
         "missions": [
           {
             "brief":{
-              "fr": "Rationalisation d'un parc de moyens de V&V logiciel avionique DO178B DAL A, B, C, E.",
-              "en": "Park of means rationalization for the V&V of avionic software DO178B DAL A, B, C, E."
+              "fr": "Etude de la 4G, solution SRAN 8.0 et SRAN 9.0.",
+              "en": "Study of 4G, SRAN 8.0 and SRAN 9.0 solutions."
             },
-            "display": "hidden",
             "relatedSkills": []
           },
           {
             "brief": {
-              "fr": "Etude de mise en place d'Intégration Continue dans les cycles de développement de logiciel avionique.",
-              "en": "Continuous Integration in avionic software development lifecycle set-up study."
+              "fr": "Réalisation des SSVs, analyse et optimisation des KPIs 3G/4G.",
+              "en": "SSVs realization, 3G/4G KPIs analysis and optimization."
             },
-            "display": "hidden",
-            "relatedSkills": []
-          },
-          {
-            "brief":{
-              "fr": "Suivi de prestations de sous-traitance, contribution au pilotage technique des activités sous-traitées.",
-              "en": "Subcontractor follow-up, and contribution to the technical management of the outsourced activity."
-            },
-            "display": "hidden",
-            "relatedSkills": []
-          },
-          {
-            "brief": {
-              "fr": "Creation d'un sous-réseau sécurisé lié à l'exploitation de moyens obsolètes.",
-              "en": "Sub-network creation to keep using obsolete means."
-            },
-            "display": "hidden",
-            "relatedSkills": []
-          },
-          {
-            "brief": {
-              "fr": "Analyse de risques industriels, traitement des obsolesences des outils de  V&V.",
-              "en": "Industrial Risks Analysis, obsolescence management of V&V tools."
-            },
-            "relatedSkills":[]
+            "relatedSkills": ["GENEX assistant","Probe"]
           }
         ]
       },
       {
         "name": {
-          "fr": "Stagiaire administrateur réseaux",
-          "en": "Trainee Network Administrator"
+          "fr": "Stagiaire à «Clo électronique»-Kenitra",
+          "en": "Trainee in «Clo électronique»"
         },
         "display": "hidden",
         "dates": {
-          "start": "2012-04-09",
-          "end": "2012-06-15"
+          "start": "2014-07-01",
+          "end": "2014-07-29"
         },
         "location": {
-          "name": "MediaMeeting",
-          "address": "99 Route d'Espagne",
-          "zip": "31100",
-          "city": "Toulouse",
-          "logoUrl": "//www.a2prl.fr/wp-content/uploads/2015/01/logo-mediameeting.png",
+          "name": "Clo électronique",
+          "address": "Kenitra",
+          "city": "Kenitra",
           "area": {
-            "fr": "31",
-            "en": "France"
+            "fr": "Maroc",
+            "en": "Morocco"
           }
         },
         "missions": [
           {
             "brief": {
-              "fr": "Etude et déploiement de VPN SSL et d'un système FailOver sur Cisco ASA",
-              "en": "VPN SSL and FailOver study and setup on Cisco ASA"
-            },
-            "relatedSkills": []
-          },
-          {
-            "brief": {
-              "fr": "Optimisation des règles firewall sur Cisco ASA",
-              "en": "Update and simplification of Cisco ASA Firewall Rules"
+              "fr": "Connaissances des différentes étapes de l'assemblage des PCBs.",
+              "en": "Knowledge of the different stages of PCB assembly."
             },
             "relatedSkills": []
           }
