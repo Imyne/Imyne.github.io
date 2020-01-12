@@ -48,13 +48,6 @@
           },
           {
             "brief": {
-              "fr": "Développement de modules de collecte de donnée de Threat Intelligence en Go.",
-              "en": "Threat intelligence database collection module development in Go."
-            },
-            "relatedSkills": ["rest", "goland"]
-          },
-          {
-            "brief": {
               "fr": "Rédaction de rapports et d'articles scientifique.",
               "en": "Scientific articles and  report writing."
             },
