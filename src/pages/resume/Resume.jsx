@@ -6,7 +6,7 @@ import Sidebar from '../../components/Sidebar/Sidebar.jsx';
 import Identity from './Identity/Identity.jsx';
 import Hook from './Hook/Hook.jsx';
 import Experiences from './Experience/Experience.jsx';
-import Skills from './Skill/Skill.jsx';
+
 
 import './resume.css';
 
@@ -24,7 +24,6 @@ export default class Resume extends React.Component {
             '/data/resume/work-experiences.json',
             '/data/resume/studies.json',
             '/data/resume/hobbies.json',
-            '/data/resume/skills.json',
         ];
         this.changeLocale = this.changeLocale.bind(this);
     }
@@ -88,13 +87,7 @@ export default class Resume extends React.Component {
                                     data={this.state.hobbies}
                                     lang={this.state.lang}
                                 />
-                            </Column>
-                            <Column id="thinColumn" colWidth={5}>
-                                <Skills
-                                    data={this.state.skills}
-                                    lang={this.state.lang}
-                                />
-                            </Column>
+
                         </SubPage>
                     </Page>
                 </div>
