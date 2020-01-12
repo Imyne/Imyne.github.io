@@ -7,17 +7,18 @@
     "list": [
       {
         "name": {
-          "fr": "Ingénieur DevOps Cybersécurité",
-          "en": "Cybersecurity DevOps Engineer "
+          "fr": "Doctorat en supervision de QoS dans les réseaux cellulaires",
+          "en": "phd student in QoS monitoring for cellular networks"
         },
         "dates": {
-          "start": "2016-08-01"
+          "start": "2017-04-01"
+          "end": "2020-03-31"
         },
         "location": {
-          "name": "ITrust",
-          "address": "55 L'Occitane",
-          "zip": "31670",
-          "city": "Labège",
+          "name": "LAAS-CNRS",
+          "address": "07 Avenue Colonel Roche",
+          "zip": "31400",
+          "city": "Toulouse",
           "area": {
             "fr": "31",
             "en": "France"
@@ -26,24 +27,24 @@
         "missions": [
           {
             "brief": {
-              "fr": "Conception SIEM et SOC basée sur l'intégration de composants Open-Source.",
-              "en": "SIEM and SOC design based on Open-Source component integration."
+              "fr": "Déploiement d'un testbed pour les communications 4G en temps réel.",
+              "en": "Real time 4G testbed deployement."
             },
-            "relatedSkills": ["graylog", "elasticsearch", "logstash", "rsyslog", "thehive"]
+            "relatedSkills": ["OpenairInterface", "LabView", "C/C++", "bash", "wireshark","SDR"]
           },
           {
             "brief": {
-              "fr": "Création d'une architecture de traitement de logs par micro-services via Docker.",
-              "en": "Micro-services log processing architecture via Docker."
+              "fr": "Estimation/prédiction du débit uplink pour des petites granularités temporelles avec les techniques d'apprentissage automatique.",
+              "en": "4G uplink throughput estimation/preduction at small time granularities using Machine Learning techniques."
             },
-            "relatedSkills": ["docker", "docker-swarm", "microservices", "bash"]
+            "relatedSkills": ["sklearn", "python", "telnet"]
           },
           {
             "brief": {
-              "fr": "Développement de modules d'alertes de sécurité en Python basés sur des requètes Elasticsearch.",
-              "en": "Alerting module development in Python based on Elasticsearch queries."
+              "fr": ".",
+              "en": "5G radio access network slicing renforncement."
             },
-            "relatedSkills": ["rest", "python", "elasticsearch"]
+            "relatedSkills": ["cplex", "optimization par contraintes","optimization multi-objectives"]
           },
           {
             "brief": {
@@ -54,8 +55,8 @@
           },
           {
             "brief": {
-              "fr": "Rédaction de rapports d'analyse.",
-              "en": "Analysis report writing."
+              "fr": "Rédaction de rapports et d'articles scientifique.",
+              "en": "Scientific articles and  report writing."
             },
             "relatedSkills": []
           }
