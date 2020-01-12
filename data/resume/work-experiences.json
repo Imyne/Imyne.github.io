@@ -90,7 +90,7 @@
           },
          {
             "brief": {
-              "fr": "Paramétrage radio et analyse de KPI drive test pour les nouveux sites UMTS (900) et 2G/3G/4G.",
+              "fr": "Paramétrage radio et analyse des KPIs drive test pour les nouveux sites UMTS (900) et 2G/3G/4G.",
               "en": "2G/3G/4G radio parameters setting and drive test KPI analysis."
             },
             "relatedSkills": []
