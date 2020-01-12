@@ -35,14 +35,14 @@
           {
             "brief": {
               "fr": "Estimation/prédiction du débit uplink pour des petites granularités temporelles avec les techniques d'apprentissage automatique.",
-              "en": "4G uplink throughput estimation/preduction at small time granularities using Machine Learning techniques."
+              "en": "4G uplink throughput estimation/prediction at small time granularities using Machine Learning techniques."
             },
             "relatedSkills": ["sklearn", "python", "telnet"]
           },
           {
             "brief": {
-              "fr": ".",
-              "en": "5G radio access network slicing renforncement."
+              "fr": "Renforcement du découpage du réseau d'accès radio 5G (network slicing).",
+              "en": "5G radio access network slicing reinforncement."
             },
             "relatedSkills": ["cplex", "optimization par contraintes","optimization multi-objectives"]
           },
@@ -57,45 +57,42 @@
       },
       {
         "name": {
-          "fr": "Analyste SOC de Niveau 2 - Investigations de cybersécurité pour le compte d'Airbus",
-          "en": "Level 2 SOC Analyst - Cybersecurity investigation on behalf of Airbus"
+          "fr": "Stagiaire d'optimisation et déploiement radio de l'UMTS900 pour Maroc Telecom avec respect de QoS",
+          "en": "Intern for UMTS900 radio optimization and deployment with regards to QoS metrics"
         },
         "dates": {
-          "start": "2016-03-07",
-          "end": "2016-07-07"
+          "start": "2016-02-01",
+          "end": "2016-06-02"
         },
         "location": {
-          "name": "Sopra Steria",
-          "address": "8 avenue Yves Brunaud",
-          "zip": "31770",
-          "city": "Colomiers",
-          "logoUrl": "//www.prestationintellectuelle.com/wp-content/uploads/2015/04/logo-sopra-steria-groupe.jpg",
+          "name": "Nokia",
+          "address": "Rabat",
+          "city": "Rabat",
           "area": {
-            "fr": "31",
-            "en": "France"
+            "fr": "Maroc",
+            "en": "Morocco"
           }
         },
         "missions": [
           {
             "brief": {
-              "fr": "Gestion et reporting d'incidents de sécurité.",
-              "en": "Security incident reporting."
+              "fr": "Etude de l'impact du déploiement de l'UMTS900 et proposition des zones pour ce déploiement.",
+              "en": "Investigation of UMTS900 deployement impact on QoS and areas proposition."
             },
             "relatedSkills": ["rsa-archer"]
           },
           {
             "brief": {
-              "fr": "Investigation et analyse de logs sur SIEM.",
-              "en": "SIEM log analysis and investigation."
+              "fr": ".",
+              "en": "Refarming 2G (900)."
             },
             "relatedSkills": ["rsa-security-analitics"]
           },
           {
             "brief": {
-              "fr": "Qualification d'évènements de sécurité sur IDS-IPS.",
-              "en": "IDS-IPS qualification of security events."
+              "fr": "Définition de la strategie de mobilité entre les couches 2G(900/1800), 3G(900/2100) et 4G(1800/2600).",
+              "en": "Mobility srategy definition between 2G(900/1800), 3G(900/2100) and 4G(1800/2600)."
             },
-            "display": "hidden",
             "relatedSkills": []
           }
         ]
