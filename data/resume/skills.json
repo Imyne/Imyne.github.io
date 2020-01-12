@@ -42,8 +42,8 @@
           {
             "id": "virt",
             "title": {
-              "fr": "Virtualisation / Cloud",
-              "en": "Virtualization / Cloud"
+              "fr": "Filaire",
+              "en": "Wired"
             },
             "relatedSkills": [
               { "id": "docker", "weight": 5},
@@ -74,17 +74,17 @@
               "en": " "
             },
             "relatedDomains": [
-              "tools", "broker", "log-processing", "monitoring", "web"
+              "tools", "platformes", "log-processing", "monitoring", "Intelligence"
             ]
           },
           {
-            "id": "web",
+            "id": "Intelligence",
             "title": {
-              "fr": "Web",
-              "en": "Web"
+              "fr": "Intelligence",
+              "en": "Intelligence"
             },
             "relatedSkills": [
-              "nginx", "rest", "traefik"
+              "LR", "RF", "SVM"
             ]
           },
           {
@@ -108,13 +108,13 @@
             ]
           },
           {
-            "id": "broker",
+            "id": "platformes",
             "title": {
-              "fr": "Files de messages",
-              "en": "Messages brokers"
+              "fr": "Platformes",
+              "en": "Platforms"
             },
             "relatedSkills": [
-              "kafka", "redis"
+              "OpenAirInterface", "Nokia bell", "Huawei technologies"
             ]
           },
           {
@@ -124,21 +124,17 @@
               "en": "Tools"
             },
             "relatedSkills": [
-              "git", "vagrant"
+              "GENEX assistant/Probe,", "Nemo Analyse","OSS","NetAct","Excel"
             ]
           }
         ],
         "skills": []
       },
       {
-        "id": "development",
+        "id": "AI",
         "title": {
-          "fr": "Développement : Langages & Frameworks",
-          "en": "Development: Languages & Frameworks"
-        },
-        "note": {
-          "fr": "Expérience en développement basé autour des APIs REST, interêt pour la programmation fonctionnelle.",
-          "en": "Experience developping focused on REST APIs, interested in functional programming."
+          "fr": "Apprentissage Automatique Techniques ",
+          "en": "Machine learning Techniques"
         },
         "type": "radial-partition-graph",
         "height": 205,
@@ -160,7 +156,7 @@
               "en": "Practice"
             },
             "relatedSkills": [
-              "golang", "javascript", "python"
+              "LR", "SVM","RF"
             ]
           },
           {
@@ -170,7 +166,7 @@
               "en": "Knowledge"
             },
             "relatedSkills": [
-              "java", "c"
+               "DT","LSTM"
             ]
           },
           {
@@ -180,7 +176,7 @@
               "en": "Interest"
             },
             "relatedSkills": [
-              "elixir", "scala"
+              "NN", "DNN"
             ]
           }
         ],
