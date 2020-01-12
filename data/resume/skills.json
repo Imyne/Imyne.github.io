@@ -74,17 +74,17 @@
               "en": " "
             },
             "relatedDomains": [
-              "tools", "broker", "languages", "monitoring", "web"
+              "tools", "broker", "languages", "monitoring", "Frameworks"
             ]
           },
           {
-            "id": "web",
+            "id": "Frameworks",
             "title": {
-              "fr": "Web",
-              "en": "Web"
+              "fr": "Frameworks",
+              "en": "Frameworks"
             },
             "relatedSkills": [
-              "nginx", "rest", "traefik"
+              "labview","SDR"
             ]
           },
           {
@@ -94,7 +94,7 @@
               "en": "Languages"
             },
             "relatedSkills": [
-             "python","matlab","labview","c"
+             "python","matlab","bash","c"
             ]
           },
           {
