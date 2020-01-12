@@ -11,6 +11,10 @@
           "fr": "Environnements",
           "en": "Environments"
         },
+        "note": {
+          "fr": "Deux ans d'expérience en administration de serveurs Linux et un an d'exploitation de Docker en production.",
+          "en": "Two years of experience administrating Linux servers and one year running Docker in production."
+        },
         "type": "treemap-graph",
         "height": 100,
         "domains": [
@@ -156,7 +160,7 @@
               "en": "Practice"
             },
             "relatedSkills": [
-              "LR", "SVM","RF"
+              "golang", "javascript", "python"
             ]
           },
           {
@@ -166,7 +170,7 @@
               "en": "Knowledge"
             },
             "relatedSkills": [
-               "DT","LSTM"
+              "java", "c"
             ]
           },
           {
@@ -176,11 +180,9 @@
               "en": "Interest"
             },
             "relatedSkills": [
-              "NN", "DNN"
+              "elixir", "scala"
             ]
           }
-
-
         ],
         "skills": []
       },
