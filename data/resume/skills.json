@@ -282,151 +282,13 @@
           "en": "Bash"
         }
       },
-      {
-        "id": "vagrant",
-        "title": {
-          "fr": "Vagrant",
-          "en": "Vagrant"
-        }
-      },
-      {
-        "id": "ansible",
-        "title": {
-          "fr": "Ansible",
-          "en": "Ansible"
-        }
-      },
-      {
-        "id": "prometheus",
-        "title": {
-          "fr": "Prometheus",
-          "en": "Prometheus"
-        }
-      },
-      {
-        "id": "grafana",
-        "title": {
-          "fr": "Grafana",
-          "en": "Grafana"
-        }
-      },
-      {
-        "id": "apache",
-        "title": {
-          "fr": "Apache",
-          "en": "Apache"
-        }
-      },
-      {
-        "id": "nginx",
-        "title": {
-          "fr": "NginX",
-          "en": "NginX"
-        }
-      },
-      {
-        "id": "traefik",
-        "title": {
-          "fr": "Traefik",
-          "en": "Traefik"
-        }
-      },
-      {
-        "id": "dns",
-        "title": {
-          "fr": "DNS",
-          "en": "DNS"
-        }
-      },
-      {
-        "id": "elasticsearch",
-        "title": {
-          "fr": "Elasticsearch",
-          "en": "Elasticsearch"
-        }
-      },
+
+
       {
         "id": "mysql",
         "title": {
           "fr": "MySQL",
           "en": "MySQL"
-        }
-      },
-      {
-        "id": "redis",
-        "title": {
-          "fr": "Redis",
-          "en": "Redis"
-        }
-      },
-      {
-        "id": "kafka",
-        "title": {
-          "fr": "Kafka",
-          "en": "Kafka"
-        }
-      },
-      {
-        "id": "graylog",
-        "title": {
-          "fr": "Graylog",
-          "en": "Graylog"
-        }
-      },
-      {
-        "id": "logstash",
-        "title": {
-          "fr": "Logstash",
-          "en": "Logstash"
-        }
-      },
-      {
-        "id": "firewall",
-        "title": {
-          "fr": "Pare-Feux",
-          "en": "Firewall"
-        }
-      },
-      {
-        "id": "web-proxy",
-        "title": {
-          "fr": "Proxy Web",
-          "en": "Web Proxies"
-        }
-      },
-      {
-        "id": "ids",
-        "title": {
-          "fr": "IDS",
-          "en": "IDS"
-        }
-      },
-      {
-        "id": "rsa-security-analitics",
-        "title": {
-          "fr": "RSA Security Analitics",
-          "en": "RSA Security Analitics"
-        }
-      },
-      {
-        "id": "rsa-archer",
-        "title": {
-          "fr": "RSA Archer",
-          "en": "RSA Archer"
-        }
-      },
-      {
-        "id": "thehive",
-        "title": {
-          "fr": "TheHive",
-          "en": "TheHive"
-        }
-      },
-      {
-        "id": "git",
-        "title": {
-          "fr": "Git",
-          "en": "Git"
         }
       },
       {
@@ -466,55 +328,6 @@
         "relatedSkills": [
           "react", "d3"
         ]
-      },
-      {
-        "id": "golang",
-        "title": {
-          "fr": "Go",
-          "en": "Go"
-        }
-      },
-      {
-        "id": "react",
-        "title": {
-          "fr": "ReactJS",
-          "en": "ReactJS"
-        }
-      },
-      {
-        "id": "d3",
-        "title": {
-          "fr": "D3",
-          "en": "D3"
-        }
-      },
-      {
-        "id": "nodejs",
-        "title": {
-          "fr": "Node.js",
-          "en": "Node.js"
-        }
-      },
-      {
-        "id": "es6",
-        "title": {
-          "en": "ES6",
-          "fr": "ES6"
-        }
-      },
-      {
-        "id": "elixir",
-        "title": {
-          "fr": "Elixir",
-          "en": "Elixir"
-        }
-      },
-      {
-        "id": "scala",
-        "title": {
-          "fr": "Scala",
-          "en": "Scala"
-        }
       },
       {
         "id": "fr",
